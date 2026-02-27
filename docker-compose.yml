@@ -7,7 +7,7 @@ services:
     ports:
       - "1935:1935"
     volumes:
-      - /home/username/owncastdata:/app/data
+      - /home/user/owncastdata:/app/data
     restart: unless-stopped
 
   caddy:
@@ -25,3 +25,4 @@ services:
 volumes:
   caddy_data:
   caddy_config:
+
