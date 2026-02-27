@@ -17,7 +17,9 @@ mkdir -p /home/user/owncastdata
 📄 2. Create Configuration Files
 
 Inside the /home/user/owncast directory, create the following files:
+
 docker-compose.yml
+
 Caddyfile
 
 Make sure both files are properly configured before continuing.
