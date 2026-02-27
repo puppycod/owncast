@@ -1,3 +1,0 @@
-domainnamehere {
-    reverse_proxy owncast:8080
-}
