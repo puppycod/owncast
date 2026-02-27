@@ -7,9 +7,11 @@ This guide explains how to run Owncast with Caddy using Docker Compose.
 Create two directories where you want to store the application and its data:
 
 mkdir -p /home/user/owncast
+
 mkdir -p /home/user/owncastdata
 
 /home/user/owncast → Application files
+
 /home/user/owncastdata → Persistent data storage
 
 📄 2. Create Configuration Files
