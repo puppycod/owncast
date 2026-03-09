@@ -44,3 +44,6 @@ To run the containers in the background (detached mode), use:
 docker compose up -d
 
 The containers will now run in the background.
+
+How to use
+https://owncast.online/docs/
